@@ -1,4 +1,4 @@
-#Chromium Profiles Backup
+# Chromium Profiles Backup
 
 ## chromium-profiles-backup.py
 *This script is making a backup of chromium bookmars and files for each user profile.*
