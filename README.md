@@ -10,7 +10,7 @@ There you should edit the path to chromium folder and path to backup folder.
 
 There you should edit the path to the directory with your backup.py file.
 
-Place this script inside your user directory: /home/<user name>
+Place this script inside your user directory: /home/*user name*
 
 ## cronetable edit
 *Edit your cronetable in order to run backup periodically*
